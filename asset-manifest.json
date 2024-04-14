@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LJL_refraction/static/css/main.f2b79160.css",
+    "main.js": "/LJL_refraction/static/js/main.5d9fc033.js",
+    "index.html": "/LJL_refraction/index.html",
+    "main.f2b79160.css.map": "/LJL_refraction/static/css/main.f2b79160.css.map",
+    "main.5d9fc033.js.map": "/LJL_refraction/static/js/main.5d9fc033.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b79160.css",
+    "static/js/main.5d9fc033.js"
+  ]
+}
